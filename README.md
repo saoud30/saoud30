@@ -1,11 +1,17 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
-<h3 align="center">Web Developer|| Tech Enthusiast || Love to write code || Spend most of the time with Computer. 🖥❤</h3>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<h3 align="center">Tech Enthusiast || Love to write code || Spend most of the time with Computer. 🖥❤</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🌱 I’m currently learning **Swift & Objective_C,Cyber Security and Machine Learning**
 
 - 💬 Ask me about **React, js and Tailwind**
 
 - 📫 How to reach me **mohdhashimansari30@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
