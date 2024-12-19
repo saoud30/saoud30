@@ -9,23 +9,14 @@
 
 > A passionate Full Stack Developer from India who loves to write code and spend time with computers 🖥️❤️
 
-- 🌱 Currently exploring **Swift, Objective-C, Cyber Security, and
-  Machine Learning**
+- 🌱 Currently exploring **Swift, Objective-C, Cyber Security, and Machine Learning**
 - 💡 Specialized in **React, JavaScript, and Tailwind CSS**
 - 📫 Reach me at: **mohdhashimansari30@gmail.com**
 - ⚡ Fun fact: I bring humor to coding sessions!
 
-<div align="center">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saoud30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/mohd-saoud-476140222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd saoud" height="30" width="40" /></a>
-<a href="https://instagram.com/mohd._saoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd._saoud" height="30" width="40" /></a>
-<a href="https://medium.com/@mohdhashimansari30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@status predator" height="30" width="40" /></a>
-</p>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -41,10 +32,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saoud30&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saoud30&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-
 
 ## 📊 Weekly Development Breakdown
 
